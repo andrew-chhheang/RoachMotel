@@ -1,0 +1,24 @@
+Name of the colony: Second colony Members: 720.0
+Method of payment: MasterRoach
+Amount paid: 255.0
+
+Name of the colony: ninth colony Members: 900.0
+Method of payment: RoachPal
+Amount paid: 180.0
+
+Name of the colony: tenth colony Members: 900.0
+Method of payment: RoachPal
+Amount paid: 180.0
+
+Name of the colony: fourth colony Members: 400.0
+Method of payment: RoachPal
+Amount paid: 180.0
+
+Name of the colony: fifth colony Members: 500.0
+Method of payment: RoachPal
+Amount paid: 255.0
+
+Name of the colony: sixth colony Members: 600.0
+Method of payment: RoachPal
+Amount paid: 255.0
+
